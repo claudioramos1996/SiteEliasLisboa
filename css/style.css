@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	font-family:"Open Sans";
+
+}
+/* CABECARIO */
+
+/*
+#div_imagem img {
+	margin: 5px;
+	height:100px;	
+}*/
+
+#div_titulo_menu{
+	padding-left: 0;
+}
+
+#div_titulo h1{
+	font-weight:bolder;
+	margin-bottom: 0.2em;
+}
+
+#div_titulo h2{
+	font-size:1.5em;	
+	margin-top: 0;
+}
+
+
+/*.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+	background-color:white;
+	color:black;
+}*/
+
+
+#menu_principal{ padding-top: 1.0em;}
+
+#menu_principal > li{
+		border-top-style:solid;
+		border-top-width: 0.15em;
+		margin-left:1.0em;
+}
+
+#menu_principal > li > a{
+		font-size: 1.2em;
+		color:black;
+		background-color:white;
+		padding-top:0.3em;
+		border-top-width: 0.5em;
+		border-radius:0em;
+}
+
+#menu_principal > li.active{
+	border-top-style:solid;
+	border-top-width: 0.4em;
+	font-weight:bold;
+}
+
+#menu_principal > li:hover{
+	border-top-width: 0.5em;
+}
+
+
+/* APRESENTACAO DE SLIDE*/
+
+#apresntacao_slide{
+ 	margin-top:1.5em;
+}
+.carousel-indicators {
+    bottom: 0px;
+}
+.carousel-indicators li {
+	margin-top:2.0em;
+    background-color: black;
+    border-color: black;
+}
+
+#conteudo h1 {
+	text-transform:uppercase;
+	margin-top:1.5em;
+	/*
+	border-bottom-style:solid;
+	border-bottom-width:0.08em;
+*/
+}
+#conteudo {
+	margin-left: 1.5em;
+}
+.linha_conteudo{
+	margin-left: 1.5em;
+	border-top: solid 0.2em;
+	padding-top: 1em;
+	margin-top: 2em;
+}
+
+
+/*
+	RODAPE
+*/
+footer{
+	margin-top:1em;
+	border-top:solid black 0.2em;	
+	text-align:center;
+}
+footer h1 {
+	margin-top:0.7em;
+	font-size:1.3em;
+}
+
+footer h2{
+	margin:1em;
+	font-size:1.0em;
+}
+
+/*
+	* Pagina de Premios
+*/
+
+.icone {
+	height:5.0em;
+}
+
+.media-body h2 {
+	margin-top:0;
+}
+
+.img_certificado{
+	height:20em;
+	margin-bottom: 2em;
+}
+.btn_download_certificado{
+	margin-top:3em;
+	margin:1em;	
+}
+/*
+*PAGINA DE CONTATO
+*/
+
+#contato span{
+	font-size: 2.5em;
+}
+#contato .glyphicon {
+	font-size: 2em;
+	
+	height: 2.2em;
+	margin-left: 1em;
+	vertical-align: baseline;
+}
+
+/*
+
+*/
+#pg_sobre_formacao{
+	
+}
+
+#pg_sobre_formacao h3 {
+	margin-top:0.5em;	
+}
+
+.texto_certificado{
+	width: 80%;
+	float: left;
+}
