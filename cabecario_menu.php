@@ -1,4 +1,5 @@
-    <header class="row">
+
+  <header class="row">
     <div class="col-md-2 col-xs-2" id="div_imagem"> <img src="img/balanca.jpg" class="img-responsive"/> </div>
     <div class="col-md-10" id="div_titulo_menu">
       <div class="col-md-12 container-fluid">

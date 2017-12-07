@@ -23,23 +23,26 @@
   <div class="container-fluid" id="pagina"> 
   
   <!--INICIO DO CABECARIO -->
-	<?php include 'cabecario_menu.php'; ?>
+	<?php 
+	include 'cabecario_menu.php'; 
+	
+	?>
 <!-- FIM CABECARIO -->
 
 	<!-- INICIO DO CONTEUDO -->
 	<article class="row">
-    	<div class="col-md-10" id="conteudo">
+    	<div class="col-md-10 texto_sobre" id="conteudo">
         	<h1>SOBRE MIM</h1>
         
         	<p>
-            	Lorem ipsum dui rutrum egestas tempor lorem imperdiet himenaeos bibendum lacus dictumst, pharetra augue netus placerat hac orci suscipit nostra malesuada eleifend, nisl aliquam conubia ut taciti class eleifend quam convallis ultricies. ac blandit luctus litora primis venenatis condimentum torquent, aliquet nunc in tincidunt tempus rhoncus nisl neque, taciti senectus cras elementum imperdiet sollicitudin. quis tortor convallis blandit urna odio torquent sociosqu porta aliquet duis nam, curabitur vestibulum sagittis metus nibh quisque massa turpis congue dolor aliquam, vivamus amet turpis nibh neque semper nec vel convallis fringilla. ultrices rhoncus luctus nisl mollis netus molestie, diam facilisis velit ultrices curabitur ante sed, quisque rutrum metus duis congue. 
+            	Meu nome é Elias Lisboa Gomes, sou advogado desde os 20 anos de idade, tenho 40 anos de experiência como advogado e sou natural de Minas Gerais. 
+	<br/>
+Desdes antes de começar minha carreira como advogado sempre tive a vontade de ajudar as pessoas, também presenciei muita injustiça com os mais humildes e por essas razões escolhi ser advogado.
+	<br/>
+Atualmente moro em Barueri e atendo a região há mais 30 anos, sempre com comprometimento por cada pessoa que me procura.
 
             </p>
             
-            <p>
-            Bibendum nec nam molestie faucibus volutpat consequat, semper venenatis vivamus fames fringilla tortor, cubilia auctor in quis himenaeos. leo porttitor donec nisl volutpat convallis sem ut curabitur sit, cras sed aliquam etiam curae lectus convallis neque elit, primis erat in id praesent curabitur pulvinar ullamcorper. donec dictumst placerat vivamus dolor consectetur aliquam aliquet, cubilia fermentum luctus feugiat etiam sodales mollis euismod, rhoncus semper sit a metus gravida. habitant vel senectus aliquet donec metus arcu maecenas pulvinar eleifend porta est pellentesque dictumst commodo, potenti aliquam ut elementum sit non diam mauris porttitor dapibus feugiat ipsum. 
-            
-            </p>
 
         	<h2>Formação</h2>
             <div id="pg_sobre_formacao" class="container-fluid" >
@@ -82,6 +85,7 @@
             
             </div>
        
+       <!--
             <h2>Atuação</h2>
             
             <p>
@@ -90,7 +94,7 @@
             enim massa sem eu aliquet sagittis sollicitudin viverra faucibus ante dictum, egestas tempus blandit diam eros rutrum curabitur varius elit egestas, diam ut tempus magna sem phasellus fermentum inceptos rhoncus. 
             fames neque quisque faucibus id integer augue enim, auctor leo lacinia feugiat diam integer est ad, ullamcorper lorem orci donec libero a. 
             </p>
-            
+            -->
             </div>
         
         </div>

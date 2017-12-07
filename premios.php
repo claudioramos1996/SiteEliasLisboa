@@ -58,8 +58,7 @@
                 <p> 
                  "A Diretoria do Conselho Regional de Corretores de Imoveis da 2º Região, Atesta para os devidos fins que Elias Gomes Lisboa CREEI N 033562j, teve seu nome registrado no Livro ... por ser inscrito neste conselho há mais de 23 anos e não registrado qualquer mácula em seu portuário, podendo ser considerado um profissional que observa com fidelidade a legislação e o código de Ética profissional, sendo-lhe conferido como homenagem o presente diploma"
                 </p>
-                 <img src="img/certificados/certificado_conselho_corretores.jpg" class="img-responsive img_certificado" style="width: 36em;
-height: 55em;" >
+                 <img src="img/certificados/certificado_conselho_corretores.jpg" class="img-responsive img_certificado"  >
               
                 	<a href="" class="btn_download_certificado">Download do Certificado</a>
               

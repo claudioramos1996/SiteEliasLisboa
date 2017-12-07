@@ -125,7 +125,7 @@ footer h2{
 }
 
 .img_certificado{
-	height:20em;
+	/*height:20em;*/
 	margin-bottom: 2em;
 }
 .btn_download_certificado{
@@ -161,4 +161,7 @@ footer h2{
 .texto_certificado{
 	width: 80%;
 	float: left;
+}
+.texto_sobre{
+	line-height:2em;
 }
