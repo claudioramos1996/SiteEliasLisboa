@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title>Advogado Elias Liboas Gomes - Sobre</title>
 
     <!-- Bootstrap -->
     <link href="libs/css/bootstrap.min.css" rel="stylesheet">
@@ -16,8 +16,11 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-    
+     <meta name="description" content="Informações sobre advogado Elias Lisboa em Barueri, com mais de 23 anos de experiência na área juridica e atendendo toda a região oeste de Barueri, Osasco, Carapicuiba, Jandira e Itapevi." >  	
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <?php
+		include "meta_cabecario.php";
+	?>
   </head>
   <body>
   <div class="container-fluid" id="pagina"> 
@@ -35,7 +38,7 @@
         	<h1>SOBRE MIM</h1>
         
         	<p>
-            	Meu nome é Elias Lisboa Gomes, sou advogado desde os 20 anos de idade, tenho 40 anos de experiência como advogado e sou natural de Minas Gerais. 
+            	Meu nome é Elias Lisboa Gomes, sou advogado desde os 25 anos de idade, tenho 23 anos de experiência como advogado e sou natural de Minas Gerais. 
 	<br/>
 Desdes antes de começar minha carreira como advogado sempre tive a vontade de ajudar as pessoas, também presenciei muita injustiça com os mais humildes e por essas razões escolhi ser advogado.
 	<br/>

@@ -16,8 +16,15 @@
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+      
+     
   
   <link rel="stylesheet" type="text/css" href="css/style.css">
+  <meta name="description" content="Advogado em Barueri, entre em contato pelos nossos telefones, whatsApp e email. Atendo Barueri, Osasco, Carapicuiba, Jandira e Itapevi." >  	
+  
+  <?php
+		include "meta_cabecario.php";
+	?>
   </head>
   <body>
   <div class="container-fluid" id="pagina"> 
@@ -80,6 +87,121 @@
   		<div class="col-md-12">
         		<img src="img/premios_v2.png" alt="..." class="img-responsive">
          </div>
+   </div>
+   
+   <div class="row linha_conteudo" style="font-weight: bold;color: black;font-family: 'Open Sans';" >
+  		
+        
+        <div class="col-md-6" id="contato" style="text-align: center;" >
+        	
+            
+            <h2 
+            style="text-transform: uppercase;font-weight: 900;
+            color: black;font-family: 'Open Sans';margin-bottom: 1em;">
+
+            Entre em Contato
+            </h2>
+            <style>
+				
+			</style>
+             (11)<span> 4194-3465</span>
+                                             <span class="glyphicon glyphicon-earphone"></span>
+                                            <br/><br/>
+                                             (11)
+                                             <span> 99438-5012</span> 
+                                             <img src="img/icon_whatsApp.jpg" class="icone" 
+                                             style="height: 2.2em;margin-left: 1em;vertical-align: baseline;" />
+
+										<br/>
+                                        <br/>
+                                        
+                                
+                                <ul style="font-size:1.5em;list-style:none"  class="nav-stacked" id="tarefas_index_contato">
+                                	<li>
+                                    	 <span class="glyphicon glyphicon-ok" > </span> Tire Dúvidas 
+                                    </li>
+                                    <li>
+                                    	<span class="glyphicon glyphicon-ok" > </span>  Marque uma visita 
+                                    </li>
+                                    <li>
+                                    	 <span class="glyphicon glyphicon-ok" > </span>  Conheça mais  
+                                    </li>
+                                
+                                </ul>
+                                
+                               
+	
+            
+         </div>
+         
+         <div class="col-md-6" style="font-weight:900;font-size: 1.7em;padding-top: 2em;">
+         
+         			
+                    
+                    <div class="container-fluid">
+                    	
+                        <!-- INICIO DE LOCALIZAÇÃO -->
+                        <div class="row">
+                        	<div class="col-md-2">
+                            	<img src="img/icone_localizacao.jpg" 
+                                class="img-responsive" style="height: 2.6em; margin-bottom:1em;" />
+                            </div>
+                            
+                            <div class="col-md-10">
+                            
+                             <p> Estou em Barueri <br/>
+                                Próximo a Estação de Trêm Do Jardim Silveira
+                                </p>
+                           </div>
+                        
+                        </div>
+                        
+                         <!-- FIM DA LOCALIZAÇÃO -->
+                         
+                         
+                         
+                        <!-- INICIO DE ATENDIMENTO -->
+                        <div class="row">
+                        	<div class="col-md-2">
+                            	<img src="img/icone_servico.png" 
+                                class="img-responsive" style="height: 2.6em;" />
+                            </div>
+                            
+                            <div class="col-md-10">
+                            
+                             <p> Atendo toda região de Osasco, <br/>
+                                Carapicuíba, Barueri,<br/>
+                                Jandira e Itapevi
+                                </p>
+                           </div>
+                        
+                        </div>
+                        
+                         <!-- FIM DA ATENDIMENTO -->
+                    
+                    </div>
+         
+         </div>
+   </div>
+   
+   <div class="row linha_conteudo" style="font-weight: bold;color: black;font-family: 'Open Sans';text-align: center;" >
+   		<div class="col-md-12">
+        	 <h2  style="text-transform: uppercase;font-weight: 900;
+            color: black;font-family: 'Open Sans';margin-bottom: 1em;">
+                    Nosso Endereço
+                </h2>
+                <p>
+                	Avenida Zélia N.189
+                	<br/>
+	                Parque dos Camargos - Barueri - São Paulo
+                
+                </p>
+                    <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1494.200453093229!2d-46.89083584557589!3d-23.53384420001288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf014500b8f995%3A0xd117829f9c30c3d4!2sAv.+Z%C3%A9lia%2C+189+-+Parque+dos+Camargos%2C+Barueri+-+SP!5e0!3m2!1spt-BR!2sbr!4v1512744894829" 
+                    style="width:100%;height: 19em;"
+                     frameborder="0"  class="img-responsive" allowfullscreen></iframe>
+        
+        </div>
+   
    </div>
   
   <footer class="row">

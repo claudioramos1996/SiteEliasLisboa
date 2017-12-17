@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Elias Lisboa - Serviços</title>
+    <title>Advogado Elias Liboas Gomes - Serviços</title>
 
     <!-- Bootstrap -->
     <link href="libs/css/bootstrap.min.css" rel="stylesheet">
@@ -16,8 +16,11 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-    
+    <meta name="description" content="Advogado Elias Lisboa em Barueri, presto os seguintes serviços: Divórcio, Inventários, Alimentos, Despejos, Aposentadoria, Usucapião e Regularização de documentação de imóveis." >  	
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <?php
+		include "meta_cabecario.php";
+	?>
   </head>
   <body>
   <div class="container-fluid" id="pagina"> 

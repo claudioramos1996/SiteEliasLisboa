@@ -58,6 +58,16 @@
 
 #menu_principal > li:hover{
 	border-top-width: 0.5em;
+	font-weight:700;
+}
+
+@media screen and (max-width: 580px){
+	
+	#menu_principal > li {
+
+    	float: none;
+
+	}
 }
 
 
@@ -164,4 +174,12 @@ footer h2{
 }
 .texto_sobre{
 	line-height:2em;
+}
+
+#div_mapa{
+	height:400px;	
+}
+
+#tarefas_index_contato span.glyphicon-ok{
+	font-size:1em;
 }
